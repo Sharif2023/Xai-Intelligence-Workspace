@@ -8,6 +8,11 @@ The core narrative walks the user through three key stages:
 2. **Analyze with AI**: Processing data through adaptive transformer models.
 3. **Generate Insight & Automate**: Extracting human-readable intelligence and triggering workflows.
 
+## Project Links
+- **Figma Design**: [Xai Intelligence Workspace (Figma)](https://www.figma.com/design/WZPVsScGtrJF4cSCyJa4LD/Xai-Intelligent-Workshop?node-id=0-1&t=VHHnZAxcEdId1NEt-1)
+- **Explanation Video**: [Watch on Google Drive](https://drive.google.com/file/d/1mckMK4fnpM8QT14zm3tWBETQJEjnduYq/view?usp=sharing)
+- **Live Deployment**: *(To be added upon deployment)*
+
 ## Technical Approach & Stack
 This project was engineered with a strict focus on UI/UX clarity, modular component structure, and advanced 3D motion.
 - **Framework**: Next.js (App Router)
